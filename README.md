@@ -86,7 +86,7 @@
 ###
 
 <div align="left">
-  <a href="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uh4jfys8noc1alae9yp9y4l6ujwwzzlikx9pf02m&ep=v1_gifs_search&rid=giphy.gif&ct=g" target="_blank">
+  <a href="https://www.linkedin.com/in/malith-shehan-95b506279/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Malithshehan_" target="_blank">
